@@ -27,6 +27,20 @@ Baseline of this code is [the official repository](https://github.com/xuanqing94
 + `adv_hvi`: Adversarial training with Enhanced Bayesian neural network based on hierarchical-ELBO
 
 
+## Citation
+If you find this work helpful, please cite is as:
+
+```
+@misc{
+lee2021towards,
+title={Towards Adversarial Robustness of Bayesian Neural Network through Hierarchical Variational Inference},
+author={Byung-Kwan Lee and Youngjoon Yu and Yong Man Ro},
+year={2021},
+url={https://openreview.net/forum?id=Cue2ZEBf12}
+}
+```
+
+
 ## How to Train
 
 ### 1. Adversarial training

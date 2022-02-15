@@ -7,7 +7,7 @@ Baseline of this code is [the official repository](https://github.com/xuanqing94
 ---
 
 ## Citation
-If you find this work helpful, please cite is as:
+If you find this work helpful, please cite it as:
 
 ```
 @misc{

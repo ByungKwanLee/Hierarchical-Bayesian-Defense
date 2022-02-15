@@ -1,6 +1,10 @@
-# Hierarchical Bayesian for Adversarial Defense [[paper]](https://openreview.net/forum?id=Cue2ZEBf12)
+# Towards Adversarial Robustness of Bayesian Neural Network through Hierarchical Variational Inference [[paper]](https://openreview.net/forum?id=Cue2ZEBf12)
 
 Baseline of this code is [the official repository](https://github.com/xuanqing94/BayesianDefense) for this [paper](https://openreview.net/pdf?id=rk4Qso0cKm). We just replace the BNN regularizer from ELBO with enhanced Bayesian regularizer based on hierarchical-ELBO.
+
+---
+
+# Hierarchical-Bayeisan-Defense
 
 ## Dataset
 + CIFAR10

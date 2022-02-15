@@ -2,6 +2,8 @@
 
 Baseline of this code is [the official repository](https://github.com/xuanqing94/BayesianDefense) for this [paper](https://openreview.net/pdf?id=rk4Qso0cKm). We just replace the BNN regularizer from ELBO with enhanced Bayesian regularizer based on hierarchical-ELBO.
 
+![Alt text](Figure.png)
+
 ---
 
 # Hierarchical-Bayeisan-Defense
